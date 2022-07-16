@@ -1,0 +1,4 @@
+.tart{font-size: 15px; display: inline-flex; border:3px; border-color: blue; border-style: solid;}
+#die{border-width: 3px; border-style: solid; border-color: black; justify-content: space-around;}
+.mexhed{display:block;text-align:center;}
+#yes{display:flex; justify-content: space-around;}

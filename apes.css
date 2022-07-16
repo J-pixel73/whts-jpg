@@ -3,6 +3,7 @@ p{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
 .ten .nine{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 #ship.start{color:red; padding:10px; border-radius: 20px}
 img{border-radius: 20px}
-.book{padding:10px; background:blue}
+#yuri-header{box-sizing: border-box;}
+.book{padding:0px 10px 0px 10px; background:blue}
 section{display:inline-flex;flex-direction:row;justify-content:space-evenly;}
 article{border-style:dotted;border-width:5px;border-color:rgb(17, 135, 17); background-color: rgb(179, 182, 26); flex:1; padding:10px; margin-left: 10px; margin-right: 20px}
