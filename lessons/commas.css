@@ -1,2 +1,14 @@
 h1{text-align:center; border-width:4px; border-style:solid; border-color:black; display:flex; justify-content: center;}
 .soul.ink{text-align:left;display:block;font-family:'Courier New', Courier, monospace}
+@keyframes calculas{
+    0%{background-color:red;}
+    20%{background-color:silver;}
+    40%{background-color: rgb(2, 68, 90)}
+    60%{background-color: greenyellow;}
+    80%{background-color: orange;}
+    100%{background-color: pink;}
+}
+.divert{display:inline-flex; min-width:200px; min-height:100px;}
+#start{animation-name:calculas; animation-duration: 6s;animation-iteratio-count:infinite;}
+.tik{background-color: black;color:white; flex:1; text-align:center; border-width:4px; border-color:red; border-style:solid;}
+#tok{display:flex; border-width:3px; border-color:blue; border-style:solid;} 
